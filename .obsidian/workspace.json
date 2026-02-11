@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/YXC/第一章 基础算法3.md",
+                "file": "Algorithm/YXC/第1章 基础算法2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第一章 基础算法3"
+              "title": "第1章 基础算法2"
             }
           }
         ]
@@ -171,9 +171,12 @@
   },
   "active": "65068fecb7fa420c",
   "lastOpenFiles": [
-    "Algorithm/YXC/第一章 基础算法1.md",
-    "Algorithm/YXC/第一章 基础算法2.md",
-    "Algorithm/YXC/第一章 基础算法3.md",
+    "Algorithm/YXC/第1章 基础算法1.md",
+    "Algorithm/YXC/第2章 数据结构2.md",
+    "Algorithm/YXC/第2章 数据结构3.md",
+    "Algorithm/YXC/第2章 数据结构1.md",
+    "Algorithm/YXC/第1章 基础算法3.md",
+    "Algorithm/YXC/第1章 基础算法2.md",
     "Algorithm/CS61B/L15_Disjoint Sets  & Asymptotics II.md",
     "Algorithm/LCY_ACM/A01a_Ternary Search.md",
     "Algorithm/YXC",
@@ -195,9 +198,6 @@
     "Algorithm/CS61B/L08_Interface and Implementation Inheritance.md",
     "Algorithm/Inheritance I.md",
     "Algorithm/CS61B/L04_Lists II-SLLists, Nested Classes, Sentinel Nodes.md",
-    "Algorithm/CS61B/L03_Lists I-References,Recursion.md",
-    "Algorithm/CS61B/L02_Defining and Using Classes.md",
-    "OOP_basic_Cpp/S04_操作符重载.md",
     "Computer-Networking/CN-ATDA(ustc_edition)",
     "Computer-Networking",
     "未命名",
