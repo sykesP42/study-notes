@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/YXC/第3章 搜索与图论3.md",
+                "file": "Algorithm/YXC/第5章 动态规划1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第3章 搜索与图论3"
+              "title": "第5章 动态规划1"
             }
           }
         ]
@@ -169,8 +169,12 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "65068fecb7fa420c",
+  "active": "9b9baf669275a78b",
   "lastOpenFiles": [
+    "Algorithm/YXC/第4章 数学知识3.md",
+    "Algorithm/YXC/第4章 数学知识2.md",
+    "Algorithm/YXC/第5章 动态规划1.md",
+    "Algorithm/YXC/第2章 数据结构1.md",
     "Algorithm/YXC/第4章 数学知识1.md",
     "Algorithm/YXC/第3章 搜索与图论3.md",
     "Algorithm/YXC/第3章 搜索与图论2.md",
@@ -181,7 +185,6 @@
     "Algorithm/YXC/第2章 数据结构3.md",
     "Algorithm/YXC/第3章 搜索与图论1.md",
     "Algorithm/YXC/第2章 数据结构2.md",
-    "Algorithm/YXC/第2章 数据结构1.md",
     "Algorithm/CS61B/L15_Disjoint Sets  & Asymptotics II.md",
     "Algorithm/LCY_ACM/A01a_Ternary Search.md",
     "Algorithm/YXC",
@@ -195,9 +198,6 @@
     "Algorithm/CS61B/L06_Testing.md",
     "Algorithm/CS61B/L10_Inheritance III-Subtype Polymorphism Comparators Comparable.md",
     "Algorithm/CS61B/L09_Inheritance II-Extends Casting Higher Order Functions.md",
-    "Algorithm/CS61B/L08_Inheritance I-Interface and Implementation Inheritance.md",
-    "Algorithm/CS61B/L07_Lists IV-Arrays and Lists.md",
-    "Algorithm/CS61B/L05_Lists III-DLLists and Arrays.md",
     "Computer-Networking/CN-ATDA(ustc_edition)",
     "Computer-Networking",
     "未命名",
