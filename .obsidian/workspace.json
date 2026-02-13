@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer-Networking/CN-ATDA(ustc_edition)/L2.4_电子邮件.md",
+                "file": "Computer-Networking/CN-ATDA(ustc_edition)/L2.3_文件传输协议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L2.4_电子邮件"
+              "title": "L2.3_文件传输协议"
             }
           }
         ],
@@ -186,8 +186,14 @@
   },
   "active": "46cfb61b00eaf8a7",
   "lastOpenFiles": [
-    "Computer-Networking/CN-ATDA(ustc_edition)/L2.3_文件传输协议.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L2.8_TCP 套接字编程.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L2.10_小结.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L2.9_UDP 套接字编程.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L2.7_内容分发网络CDN.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L2.6_P2P 应用.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L2.5_DNS.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L2.4_电子邮件.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L2.3_文件传输协议.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L2.1_应用层原理.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L1.9_小结.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L2.0_应用层概述.md",
@@ -209,12 +215,6 @@
     "Algorithm/YXC/基础算法课/第6章 贪心算法2.md",
     "Algorithm/YXC/基础算法课/第4章 数学知识1.md",
     "Algorithm/YXC/基础算法课/第1章 基础算法2.md",
-    "Algorithm/YXC/基础算法课/第1章 基础算法3.md",
-    "Algorithm/YXC/基础算法课/第2章 数据结构2.md",
-    "Algorithm/YXC/基础算法课/第5章 动态规划2.md",
-    "Algorithm/YXC/基础算法课/第7章 时空复杂度分析.md",
-    "Algorithm/YXC/基础算法课/第3章 搜索与图论1.md",
-    "Algorithm/YXC/基础算法课/第5章 动态规划3.md",
     "Algorithm/YXC/基础算法课",
     "Algorithm/CS61A",
     "Algorithm/YXC",
