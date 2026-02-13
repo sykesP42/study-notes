@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/YXC/基础算法课/第1章 基础算法1.md",
+                "file": "Algorithm/YXC/基础算法课/基础算法课 Week3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第1章 基础算法1"
+              "title": "基础算法课 Week3"
             }
           }
         ],
@@ -186,15 +186,19 @@
   },
   "active": "46cfb61b00eaf8a7",
   "lastOpenFiles": [
+    "Algorithm/YXC/基础算法课/基础算法课 Week4.md",
+    "Algorithm/YXC/基础算法课/基础算法课 Week6.md",
+    "Algorithm/YXC/基础算法课/第4章 数学知识2.md",
+    "Algorithm/YXC/基础算法课/第1章 基础算法1.md",
     "Algorithm/YXC/基础算法课/第2章 数据结构1.md",
+    "Algorithm/YXC/基础算法课/pic",
+    "Algorithm/YXC/基础算法课/pic/Pasted image 20260213142904.png",
+    "Algorithm/YXC/基础算法课/基础算法课 Week1.md",
     "Algorithm/YXC/基础算法课/第5章 动态规划1.md",
     "Algorithm/YXC/基础算法课/基础算法课 Week2.md",
-    "Algorithm/YXC/基础算法课/基础算法课 Week1.md",
     "Algorithm/YXC/基础算法课/基础算法课 Week3.md",
-    "Algorithm/YXC/基础算法课/基础算法课 Week4.md",
     "Algorithm/YXC/基础算法课/第6章 贪心算法2.md",
     "Algorithm/YXC/基础算法课/第4章 数学知识1.md",
-    "Algorithm/YXC/基础算法课/第1章 基础算法1.md",
     "Algorithm/YXC/基础算法课/第1章 基础算法2.md",
     "Algorithm/YXC/基础算法课/第1章 基础算法3.md",
     "Algorithm/YXC/基础算法课/第2章 数据结构2.md",
@@ -207,14 +211,11 @@
     "Algorithm/CS61A",
     "Algorithm/YXC/基础算法课/第6章 贪心算法1.md",
     "Algorithm/YXC/基础算法课/第3章 搜索与图论2.md",
-    "Algorithm/YXC/基础算法课/第4章 数学知识2.md",
     "Algorithm/YXC/基础算法课/第3章 搜索与图论3.md",
     "Algorithm/YXC/基础算法课/第4章 数学知识3.md",
     "Algorithm/CS61B/L01_introduction.md",
     "Algorithm/CS61B/L15_Disjoint Sets  & Asymptotics II.md",
-    "Algorithm/LCY_ACM/A01a_Ternary Search.md",
     "Algorithm/YXC",
-    "Algorithm/CS61B/L17_B-Trees (2-3 2-3-4 Trees).md",
     "Computer-Networking/CN-ATDA(ustc_edition)",
     "Computer-Networking",
     "未命名",
