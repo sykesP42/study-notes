@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/CS61A/L28_Scheme.md",
+                "file": "Algorithm/CS61A/L24_模块化设计（Decomposition）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L28_Scheme"
+              "title": "L24_模块化设计（Decomposition）"
             }
           }
         ],
@@ -186,8 +186,9 @@
   },
   "active": "46cfb61b00eaf8a7",
   "lastOpenFiles": [
-    "Algorithm/CS61A/L25_列表变异、类属性与高级操作技巧.md",
+    "Algorithm/CS61A/L29_Scheme列表.md",
     "Algorithm/CS61A/L28_Scheme.md",
+    "Algorithm/CS61A/L25_列表变异、类属性与高级操作技巧.md",
     "Algorithm/CS61A/L24_模块化设计（Decomposition）.md",
     "Algorithm/CS61A/L23_算法效率.md",
     "Algorithm/CS61A/L22_组合（Composition）.md",
@@ -211,7 +212,6 @@
     "Algorithm/CS61A/L11_序列.md",
     "Algorithm/CS61A/L12_容器.md",
     "Algorithm/CS61A/L13_数据抽象.md",
-    "Algorithm/CS61A/L02_函数、环境与抽象.md",
     "Algorithm/YXC/基础算法课/pic/Pasted image 20260213143740.png",
     "Algorithm/YXC/基础算法课/pic",
     "Algorithm/YXC/基础算法课/pic/Pasted image 20260213142904.png",
