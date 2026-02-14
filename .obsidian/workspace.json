@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/CS61A/L06_用函数合成声音.md",
+                "file": "Algorithm/CS61A/L09_递归.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L06_用函数合成声音"
+              "title": "L09_递归"
             }
           }
         ],
@@ -186,11 +186,14 @@
   },
   "active": "46cfb61b00eaf8a7",
   "lastOpenFiles": [
-    "Algorithm/CS61A/L07_函数抽象与调试.md",
-    "Algorithm/CS61A/L06_用函数合成声音.md",
-    "Algorithm/CS61A/L02_函数、环境与抽象.md",
+    "Algorithm/CS61A/L10_树递归.md",
+    "Algorithm/CS61A/L09_递归.md",
+    "Algorithm/CS61A/L08_函数实例与装饰器.md",
     "Algorithm/CS61A/L01_表达式与Python入门.md",
     "Algorithm/CS61A/L05_高阶函数与环境图.md",
+    "Algorithm/CS61A/L06_用函数合成声音.md",
+    "Algorithm/CS61A/L07_函数抽象与调试.md",
+    "Algorithm/CS61A/L02_函数、环境与抽象.md",
     "Algorithm/CS61A/L04_高阶函数与抽象.md",
     "Algorithm/CS61A/L03_控制流与环境进阶.md",
     "Algorithm/CS61B/L18_Red Black Trees.md",
@@ -209,10 +212,7 @@
     "Computer-Networking/CN-ATDA(ustc_edition)/L1.9_小结.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L2.0_应用层概述.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L2.2_Web与HTTP协议.md",
-    "Computer-Networking/CN-ATDA(ustc_edition)/L1.6_分组延时、丢失和吞吐量.md",
     "Algorithm/YXC/基础算法课/pic/Pasted image 20260213143740.png",
-    "Algorithm/YXC/基础算法课/基础算法课 Week3.md",
-    "Algorithm/YXC/基础算法课/基础算法课 Week4.md",
     "Algorithm/YXC/基础算法课/pic",
     "Algorithm/YXC/基础算法课/pic/Pasted image 20260213142904.png",
     "Algorithm/YXC/基础算法课",
