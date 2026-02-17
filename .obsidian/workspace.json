@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/CS61B/L24_Shortest Paths.md",
+                "file": "Algorithm/CS61B/L32_Sorting IV-Theoretical Lower Bounds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L24_Shortest Paths"
+              "title": "L32_Sorting IV-Theoretical Lower Bounds"
             }
           }
         ],
@@ -186,8 +186,17 @@
   },
   "active": "46cfb61b00eaf8a7",
   "lastOpenFiles": [
-    "Algorithm/CS61B/L23_Graph Traversals and Implementations.md",
+    "Algorithm/CS61B/L30_Sorting III-Quicksort.md",
+    "Algorithm/CS61B/L32_Sorting IV-Theoretical Lower Bounds.md",
+    "Algorithm/CS61B/L30_Sorting II-Mergesort & Insertion Sort.md",
+    "Algorithm/CS61B/L31_Software Engineering II.md",
+    "Algorithm/CS61B/L29_Sorting I-Selection Sort & Heapsort.md",
+    "Algorithm/CS61B/L28_Prefix Operations and Tries.md",
+    "Algorithm/CS61B/L27_Software Engineering I.md",
+    "Algorithm/CS61B/L25_Minimum Spanning Trees.md",
+    "Algorithm/CS61B/L26_Minimum Spanning Trees II.md",
     "Algorithm/CS61B/L24_Shortest Paths.md",
+    "Algorithm/CS61B/L23_Graph Traversals and Implementations.md",
     "Algorithm/CS61B/L22_Tree and Graph Traversal.md",
     "Algorithm/CS61B/L21_Heaps and Priority Queue.md",
     "Algorithm/CS61B/L20_Hashing II.md",
@@ -203,15 +212,6 @@
     "Algorithm/CS61B/L13_Midterm Review.md",
     "Algorithm/CS61B/L10_Inheritance III-Subtype Polymorphism Comparators Comparable.md",
     "Algorithm/CS61A/L07_函数抽象与调试.md",
-    "Algorithm/CS61A/L04_高阶函数与抽象.md",
-    "Algorithm/CS61A/L38_数据库.md",
-    "Algorithm/CS61A/L39_树与函数设计.md",
-    "Algorithm/CS61A/L37_聚合（Aggregation）.md",
-    "Algorithm/CS61A/L36_表连接（Tables）.md",
-    "Algorithm/CS61A/L35_SQL.md",
-    "Algorithm/CS61A/L34_宏（Macros）.md",
-    "Algorithm/CS61A/L33_程序即数据.md",
-    "Algorithm/CS61A/L31_解释器（Interpreters）.md",
     "Algorithm/YXC/基础算法课/pic/Pasted image 20260213143740.png",
     "Algorithm/YXC/基础算法课/pic",
     "Algorithm/YXC/基础算法课/pic/Pasted image 20260213142904.png",
