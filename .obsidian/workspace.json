@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer-Networking/CN-ATDA(ustc_edition)/L4.2_路由器组成.md",
+                "file": "Computer-Networking/CN-ATDA(ustc_edition)/L4.3_IP协议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L4.2_路由器组成"
+              "title": "L4.3_IP协议"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "08df86427b76a02b",
   "lastOpenFiles": [
-    "Computer-Networking/CN-ATDA(ustc_edition)/L4.1_网络层导论.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L4.2_路由器组成.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L4.3_IP协议.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L4.1_网络层导论.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L1.1_什么是Internet？.md",
     "README.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L3.7_TCP 拥塞控制.md",
@@ -196,7 +197,6 @@
     "Algorithm/CS61B/L38_Compression.md",
     "Algorithm/CS61B/L34_Software Engineering III.md",
     "Algorithm/CS61B/L36_Sorting VI-Radix vs Comparison.md",
-    "Algorithm/CS61B/L35_Sorting V-More Quicksort & Quickselect.md",
     "Algorithm/YXC/基础算法课/pic/Pasted image 20260213143740.png",
     "Algorithm/YXC/基础算法课/pic",
     "Algorithm/YXC/基础算法课/pic/Pasted image 20260213142904.png",
