@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer-Networking/CN-ATDA(ustc_edition)/L5.2_路由选择算法.md",
+                "file": "Computer-Networking/CN-ATDA(ustc_edition)/L5.5_SDN控制平面.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L5.2_路由选择算法"
+              "title": "L5.5_SDN控制平面"
             }
           }
         ]
@@ -171,17 +171,23 @@
   },
   "active": "08df86427b76a02b",
   "lastOpenFiles": [
-    "Computer-Networking/CN-ATDA(ustc_edition)/L5.1_链路层导论.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L5.4_ISP之间的路由选择.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L5.6_小结.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L4.3_IP协议.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L4.1_网络层导论.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L3.7_TCP 拥塞控制.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L2.10_小结.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L5.5_SDN控制平面.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L5.3_自治系统内部的路由选择.md",
+    "Pasted image 20260301233349.png",
     "Computer-Networking/CN-ATDA(ustc_edition)/L5.2_路由选择算法.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L5.1_链路层导论.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L2.1_应用层原理.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L3.1_传输层概述与传输层服务.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L4.4_通用转发与SDN.md",
-    "Computer-Networking/CN-ATDA(ustc_edition)/L4.3_IP协议.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L4.2_路由器组成.md",
-    "Computer-Networking/CN-ATDA(ustc_edition)/L4.1_网络层导论.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L1.1_什么是Internet？.md",
     "README.md",
-    "Computer-Networking/CN-ATDA(ustc_edition)/L3.7_TCP 拥塞控制.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L3.6_拥塞控制原理.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L3.5_面向连接的传输TCP.md",
     "Algorithm/YXC/基础算法课/基础算法课 Week1.md",
@@ -192,11 +198,6 @@
     "Algorithm/CS61B/L19_Hashing I.md",
     "Algorithm/CS61B/L04_Lists II-SLLists, Nested Classes, Sentinel Nodes.md",
     "Algorithm/CS61B/L03_Lists I-References,Recursion.md",
-    "Computer-Networking/CN-ATDA(ustc_edition)/L3.3_无连接传输 UDP.md",
-    "Computer-Networking/CN-ATDA(ustc_edition)/L3.2_多路复用与解复用.md",
-    "Computer-Networking/CN-ATDA(ustc_edition)/L2.10_小结.md",
-    "Algorithm/CS61B/L40_Summary.md",
-    "Algorithm/CS61B/L39_Computability & P vs NP.md",
     "Algorithm/YXC/基础算法课/pic/Pasted image 20260213143740.png",
     "Algorithm/YXC/基础算法课/pic",
     "Algorithm/YXC/基础算法课/pic/Pasted image 20260213142904.png",
