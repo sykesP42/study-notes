@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer-Networking/CN-ATDA(ustc_edition)/L6.6_数据中心网络.md",
+                "file": "Computer-Networking/CN-ATDA(ustc_edition)/L8.2_加密原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L6.6_数据中心网络"
+              "title": "L8.2_加密原理"
             }
           }
         ]
@@ -171,6 +171,13 @@
   },
   "active": "08df86427b76a02b",
   "lastOpenFiles": [
+    "Computer-Networking/CN-ATDA(ustc_edition)/L1.5_Internet结构与ISP.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L1.2_网络边缘.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/pic/Pasted image 20260309032634.png",
+    "Computer-Networking/CN-ATDA(ustc_edition)/pic",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L8.2_加密原理.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L8.1_什么是网络安全.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L8.0_网络安全概述.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L6.7_协议栈的完整旅程.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L6.6_数据中心网络.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L6.5_链路虚拟化.md",
@@ -193,11 +200,6 @@
     "Computer-Networking/CN-ATDA(ustc_edition)/L3.1_传输层概述与传输层服务.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L4.4_通用转发与SDN.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L4.2_路由器组成.md",
-    "Computer-Networking/CN-ATDA(ustc_edition)/L1.1_什么是Internet？.md",
-    "README.md",
-    "Computer-Networking/CN-ATDA(ustc_edition)/L3.6_拥塞控制原理.md",
-    "Computer-Networking/CN-ATDA(ustc_edition)/L3.5_面向连接的传输TCP.md",
-    "Algorithm/YXC/基础算法课/基础算法课 Week1.md",
     "Algorithm/YXC/基础算法课/pic/Pasted image 20260213143740.png",
     "Algorithm/YXC/基础算法课/pic",
     "Algorithm/YXC/基础算法课/pic/Pasted image 20260213142904.png",
