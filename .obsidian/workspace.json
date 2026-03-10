@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer-Networking/CN-ATDA(ustc_edition)/L8.2_加密原理.md",
+                "file": "Computer-Networking/CN-ATDA(ustc_edition)/L3.4_可靠数据传输原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L8.2_加密原理"
+              "title": "L3.4_可靠数据传输原理"
             }
           }
         ]
@@ -169,13 +169,14 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "08df86427b76a02b",
+  "active": "9b9baf669275a78b",
   "lastOpenFiles": [
+    "Computer-Networking/CN-ATDA(ustc_edition)/L8.3_认证.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L8.2_加密原理.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L1.5_Internet结构与ISP.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L1.2_网络边缘.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/pic/Pasted image 20260309032634.png",
     "Computer-Networking/CN-ATDA(ustc_edition)/pic",
-    "Computer-Networking/CN-ATDA(ustc_edition)/L8.2_加密原理.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L8.1_什么是网络安全.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L8.0_网络安全概述.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L6.7_协议栈的完整旅程.md",
@@ -199,7 +200,6 @@
     "Computer-Networking/CN-ATDA(ustc_edition)/L2.1_应用层原理.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L3.1_传输层概述与传输层服务.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L4.4_通用转发与SDN.md",
-    "Computer-Networking/CN-ATDA(ustc_edition)/L4.2_路由器组成.md",
     "Algorithm/YXC/基础算法课/pic/Pasted image 20260213143740.png",
     "Algorithm/YXC/基础算法课/pic",
     "Algorithm/YXC/基础算法课/pic/Pasted image 20260213142904.png",
