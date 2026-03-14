@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 331.5
   },
   "right": {
     "id": "263f64c416f104b7",
@@ -171,10 +171,10 @@
   },
   "active": "08df86427b76a02b",
   "lastOpenFiles": [
-    "Computer-Networking/CN-ATDA(ustc_edition)/L1.9_小结.md",
-    "Computer-Networking/CN-ATDA(ustc_edition)/L8.9_小结.md",
-    "Computer-Networking/CN-ATDA(ustc_edition)/L6.1_链路层导论与服务.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L8.8_攻击与对策.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L8.9_小结.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L1.9_小结.md",
+    "Computer-Networking/CN-ATDA(ustc_edition)/L6.1_链路层导论与服务.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L8.7_防火墙.md",
     "Algorithm/YXC/基础算法课/算法基础课 Week7.md",
     "Algorithm/YXC/基础算法课/基础算法课 Week6.md",
