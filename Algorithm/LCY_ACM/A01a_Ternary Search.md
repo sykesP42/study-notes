@@ -86,12 +86,12 @@
       left   mid1  mid2   right
 ```
 情况1：f(mid1) > f(mid2)
-    → 极值点肯定在 [mid1, right]
-    → 舍弃左区间 [left, mid1]
+    → 极值点肯定在` [mid1, right]`
+    → 舍弃左区间 `[left, mid1]`
     
 情况2：f(mid1) ≤ f(mid2)
-    → 极值点肯定在 [left, mid2]
-    → 舍弃右区间 [mid2, right]
+    → 极值点肯定在` [left, mid2]`
+    → 舍弃右区间` [mid2, right]`
 
 ---
 
