@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Cpp/memory_pool/07.md",
+                "file": "Project/Cpp/memory_pool/10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07"
+              "title": "10"
             }
           }
         ],
@@ -186,10 +186,13 @@
   },
   "active": "e007821f54365749",
   "lastOpenFiles": [
-    "Project/Cpp/memory_pool/05图解堆栈空间分配与指针代码.md",
-    "Project/Cpp/memory_pool/07.md",
-    "Project/Cpp/memory_pool/06数组的堆栈空间初始化与C++11 for遍历.md",
+    "Project/Cpp/memory_pool/09void指针与C++11指针类型转换.md",
+    "Project/Cpp/memory_pool/10.md",
+    "Project/Cpp/memory_pool/08堆中二维数组的两种空间分配与清理机制.md",
+    "Project/Cpp/memory_pool/07图解栈中二维数组的初始化与遍历.md",
     "Project/Cpp/memory_pool/04验证五大内存区域.md",
+    "Project/Cpp/memory_pool/05图解堆栈空间分配与指针代码.md",
+    "Project/Cpp/memory_pool/06数组的堆栈空间初始化与C++11 for遍历.md",
     "Project/Cpp/memory_pool/03进程内存空间划分与底层原理.md",
     "Project/Cpp/memory_pool/01概览.md",
     "Project/Cpp/memory_pool/02第一个指针程序.md",
@@ -212,9 +215,6 @@
     "OOP_basic_Cpp/S04_操作符重载.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L10_计算机网络课程复习.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L8.0_网络安全概述.md",
-    "Computer-Networking/CN-ATDA(ustc_edition)/L6.7_协议栈的完整旅程.md",
-    "Computer-Networking/CN-ATDA(ustc_edition)/L8.6_各个层次的安全性.md",
-    "Computer-Networking/CN-ATDA(ustc_edition)/L8.2_加密原理.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/pic/Pasted image 20260309032634.png",
     "Computer-Networking/CN-ATDA(ustc_edition)/pic",
     "Pasted image 20260301233349.png",
