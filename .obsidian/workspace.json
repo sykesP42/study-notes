@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Cpp/memory_pool/42责任链数据传递.md",
+                "file": "Project/Cpp/memory_pool/45闭环.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "42责任链数据传递"
+              "title": "45闭环"
             }
           }
         ],
@@ -186,8 +186,11 @@
   },
   "active": "e007821f54365749",
   "lastOpenFiles": [
-    "Project/Cpp/memory_pool/41XData数据块.md",
+    "Project/Cpp/memory_pool/44XWriteTask 写入任务实现与完整验证.md",
+    "Project/Cpp/memory_pool/45闭环.md",
+    "Project/Cpp/memory_pool/43XCryptTask加密线程.md",
     "Project/Cpp/memory_pool/42责任链数据传递.md",
+    "Project/Cpp/memory_pool/41XData数据块.md",
     "Project/Cpp/memory_pool/40线程基类与文件读取任务.md",
     "Project/Cpp/memory_pool/14unique_ptr的资源重置与移动语义.md",
     "Project/Cpp/memory_pool/11指针操作二维数组与OpenCV灰度图反色实战.md",
@@ -209,9 +212,6 @@
     "Project/Cpp/memory_pool/24重载operator new与delete.md",
     "Project/Cpp/memory_pool/23vector内存流转：传参优化、Move语义与跨DLL陷阱.md",
     "Project/Cpp/memory_pool/22使用string作为函数参数的内存输入与输出.md",
-    "Project/Cpp/memory_pool/21unique_ptr跨作用域流转：函数参数与返回值.md",
-    "Project/Cpp/memory_pool/20指针传参陷阱与模板破局：从退化到内存安全.md",
-    "Project/Cpp/memory_pool/19weak_ptr破局：shared_ptr循环引用与弱引用机制.md",
     "Project/Cpp/memory_pool",
     "Project/Cpp",
     "Project",
