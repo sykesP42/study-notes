@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Cpp/memory_pool/14unique_ptr的资源重置与移动语义.md",
+                "file": "Project/Cpp/memory_pool/42责任链数据传递.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14unique_ptr的资源重置与移动语义"
+              "title": "42责任链数据传递"
             }
           }
         ],
@@ -186,6 +186,10 @@
   },
   "active": "e007821f54365749",
   "lastOpenFiles": [
+    "Project/Cpp/memory_pool/41XData数据块.md",
+    "Project/Cpp/memory_pool/42责任链数据传递.md",
+    "Project/Cpp/memory_pool/40线程基类与文件读取任务.md",
+    "Project/Cpp/memory_pool/14unique_ptr的资源重置与移动语义.md",
     "Project/Cpp/memory_pool/11指针操作二维数组与OpenCV灰度图反色实战.md",
     "Project/Cpp/memory_pool/35synchronized_pool_resource 解析.md",
     "Project/Cpp/memory_pool/36内存池空间释放.md",
@@ -208,10 +212,6 @@
     "Project/Cpp/memory_pool/21unique_ptr跨作用域流转：函数参数与返回值.md",
     "Project/Cpp/memory_pool/20指针传参陷阱与模板破局：从退化到内存安全.md",
     "Project/Cpp/memory_pool/19weak_ptr破局：shared_ptr循环引用与弱引用机制.md",
-    "Project/Cpp/memory_pool/18shared_ptr高级玩法：定制删除器与别名指针.md",
-    "Project/Cpp/memory_pool/16shared_ptr共享智能指针原理.md",
-    "Project/Cpp/memory_pool/17shared_ptr实战：初始化、作用域与引用计数.md",
-    "Project/Cpp/memory_pool/15unique_ptr所有权释放与自定义删除器.md",
     "Project/Cpp/memory_pool",
     "Project/Cpp",
     "Project",
