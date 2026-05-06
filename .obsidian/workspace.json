@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Missing-Semester/01_The Shell.md",
-                "mode": "source",
+                "file": "Project/Cpp/memory_pool/09void指针与C++11指针类型转换.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_The Shell"
+              "title": "09void指针与C++11指针类型转换"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 462.5
   },
   "right": {
     "id": "263f64c416f104b7",
@@ -186,32 +186,32 @@
   },
   "active": "e007821f54365749",
   "lastOpenFiles": [
-    "Missing-Semester/02a_Shell Tools and Scripting.md",
+    "Project/Cpp/memory_pool/08堆中二维数组的两种空间分配与清理机制.md",
+    "Project/Cpp/memory_pool/09void指针与C++11指针类型转换.md",
+    "Project/Cpp/memory_pool/07图解栈中二维数组的初始化与遍历.md",
+    "Project/Cpp/memory_pool/06数组的堆栈空间初始化与C++11 for遍历.md",
+    "Project/Cpp/memory_pool/05图解堆栈空间分配与指针代码.md",
+    "Project/Cpp/memory_pool/11指针操作二维数组与OpenCV灰度图反色实战.md",
+    "Project/Cpp/memory_pool/02第一个指针程序.md",
+    "Project/Cpp/memory_pool/12unique_ptr智能指针：所有权机制与多维初始化.md",
+    "Project/Cpp/memory_pool/46XFileCrypt加解密接口.md",
+    "Project/Cpp/memory_pool/47批量文件加解密实战.md",
+    "Project/Cpp/memory_pool/04验证五大内存区域.md",
+    "OOP_basic_Cpp/S03_参数传递、返回值与友元机制.md",
+    "OOP_basic_Cpp/S04_操作符重载.md",
+    "OOP_basic_Cpp/S02_析构函数.md",
+    "OOP_basic_Cpp/S01_头文件与类的声明.md",
+    "Project/Cpp/memory_pool/10常量指针与指针常量.md",
     "Missing-Semester/01_The Shell.md",
+    "Missing-Semester/02a_Shell Tools and Scripting.md",
     "Missing-Semester/04a_Data Wrangling.md",
     "Missing-Semester/03_The editor (vim).md",
-    "Project/Cpp/memory_pool/47批量文件加解密实战.md",
-    "Project/Cpp/memory_pool/46XFileCrypt加解密接口.md",
     "Project/Cpp/memory_pool/45闭环.md",
     "Project/Cpp/memory_pool/44XWriteTask 写入任务实现与完整验证.md",
     "Project/Cpp/memory_pool/43XCryptTask加密线程.md",
     "Project/Cpp/memory_pool/42责任链数据传递.md",
     "Project/Cpp/memory_pool/41XData数据块.md",
     "Project/Cpp/memory_pool/40线程基类与文件读取任务.md",
-    "Project/Cpp/memory_pool/14unique_ptr的资源重置与移动语义.md",
-    "Project/Cpp/memory_pool/11指针操作二维数组与OpenCV灰度图反色实战.md",
-    "Project/Cpp/memory_pool/35synchronized_pool_resource 解析.md",
-    "Project/Cpp/memory_pool/36内存池空间释放.md",
-    "Project/Cpp/memory_pool/37基于内存池的批量文件加解密系统项目架构.md",
-    "Project/Cpp/memory_pool/38XCrypt加密模块实现.md",
-    "Project/Cpp/memory_pool/31多继承二义性与虚基类内存布局.md",
-    "Project/Cpp/memory_pool/32虚函数原理与内存布局.md",
-    "Project/Cpp/memory_pool/33虚函数表指针直接访问实验.md",
-    "Project/Cpp/memory_pool/34C++17内存池：memory_resource架构与性能权衡.md",
-    "Project/Cpp/memory_pool/30对象生命周期管控：限制栈创建与受控销毁机制.md",
-    "Project/Cpp/memory_pool/39XCrypt解密模块实现.md",
-    "Project/Cpp/memory_pool/29现代C++对象构造与销毁：construct_at与destroy.md",
-    "Project/Cpp/memory_pool/28未初始化内存的复制与对象构造机制.md",
     "Project/Cpp/memory_pool",
     "Project/Cpp",
     "Project",
