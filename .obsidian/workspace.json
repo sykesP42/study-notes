@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP_basic_Cpp/S08_String 类的完整实现.md",
-                "mode": "source",
+                "file": "OOP_basic_Cpp/S10_复合、委托与继承.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S08_String 类的完整实现"
+              "title": "S10_复合、委托与继承"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 321.5
   },
   "right": {
     "id": "263f64c416f104b7",
@@ -186,18 +186,23 @@
   },
   "active": "e007821f54365749",
   "lastOpenFiles": [
+    "OOP_basic_Cpp/S09_扩展补充：静态、模板、命名空间及其他.md",
+    "OOP_basic_Cpp/S12_委托相关设计.md",
+    "OOP_basic_Cpp/S10_复合、委托与继承.md",
+    "OOP_basic_Cpp/S01_头文件与类的声明.md",
+    "OOP_basic_Cpp/S11_虚函数与多态.md",
+    "Project/Cpp/memory_pool/35synchronized_pool_resource 解析.md",
+    "OOP_basic_Cpp/pic/Pasted image 20260909104233.png",
+    "OOP_basic_Cpp/S08_String 类的完整实现.md",
+    "OOP_basic_Cpp/S07_堆、栈与内存管理.md",
+    "OOP_basic_Cpp/pic/Pasted image 20260909102723.png",
+    "OOP_basic_Cpp/S06_拷贝构造、拷贝赋值、析构.md",
+    "OOP_basic_Cpp/pic/Pasted image 20260909102638.png",
+    "OOP_basic_Cpp/pic",
     "OOP_basic_Cpp/S05_复习complex类的实现过程.md",
     "OOP_basic_Cpp/S03_参数传递、返回值与友元机制.md",
     "OOP_basic_Cpp/S02_析构函数.md",
-    "OOP_basic_Cpp/S01_头文件与类的声明.md",
     "OOP_basic_Cpp/S04_操作符重载、临时对象.md",
-    "OOP_basic_Cpp/S10_复合、委托与继承.md",
-    "OOP_basic_Cpp/S08_String 类的完整实现.md",
-    "OOP_basic_Cpp/S11_虚函数与多态.md",
-    "OOP_basic_Cpp/S12_委托相关设计.md",
-    "OOP_basic_Cpp/S09_扩展补充：静态、模板、命名空间及其他.md",
-    "OOP_basic_Cpp/S06_拷贝构造、拷贝赋值、析构.md",
-    "OOP_basic_Cpp/S07_堆、栈与内存管理.md",
     "Project/Cpp/memory_pool/12unique_ptr智能指针：所有权机制与多维初始化.md",
     "Project/Cpp/memory_pool/11指针操作二维数组与OpenCV灰度图反色实战.md",
     "Project/Cpp/memory_pool/08堆中二维数组的两种空间分配与清理机制.md",
@@ -211,7 +216,6 @@
     "Computer-Networking/CN-ATDA(ustc_edition)/L6.6_数据中心网络.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L8.7_防火墙.md",
     "Computer-Networking/CN-ATDA(ustc_edition)/L8.6_各个层次的安全性.md",
-    "Computer-Networking/CN-ATDA(ustc_edition)/L8.5_密钥分发和证书.md",
     "Project/Cpp/memory_pool",
     "Project/Cpp",
     "Project",
@@ -225,12 +229,8 @@
     "Algorithm/CS61A",
     "Algorithm/YXC",
     "Computer-Networking/CN-ATDA(ustc_edition)",
-    "Computer-Networking",
     "Algorithm/LCY_ACM/pic/Pasted image 20260207035817.png",
     "Algorithm/LCY_ACM/pic/Pasted image 20260207035531.png",
-    "Algorithm/LCY_ACM/pic/Pasted image 20260207035457.png",
-    "Algorithm/LCY_ACM/pic/Pasted image 20260207035306.png",
-    "Algorithm/LCY_ACM/pic/Pasted image 20260207035239.png",
-    "Algorithm/LCY_ACM/pic/Pasted image 20260207032043.png"
+    "Algorithm/LCY_ACM/pic/Pasted image 20260207035457.png"
   ]
 }
